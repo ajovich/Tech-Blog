@@ -1,0 +1,11 @@
+
+[
+    {
+      "post_title": "What is MVC Folder Structure?",
+      "post_body": "MVC stands for Model-View-Controller. It is used to break an application into three parts: the data (Model), the UI or presentation to the user, including front-end javascript (View), and the traffic cop (Controller)."
+    },
+    {
+      "post_title": "What is a Front End Framework?",
+      "post_body": "A front end framework is a package that contains pre-written code in files and folders. It is like the scaffold for building the front end. It allows the developer to spend less time on creating from the ground up, and more time on the design and unique features of their application. Some examples include Bootstrap and UiKit which were used to create this tech blog! "
+    }
+  ]

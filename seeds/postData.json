@@ -6,6 +6,6 @@
     },
     {
       "post_title": "What is a Front End Framework?",
-      "post_body": "A front end framework is a package that contains pre-written code in files and folders. It is like the scaffold for building the front end. It allows the developer to spend less time on creating from the ground up, and more time on the design and unique features of their application. Some examples include Bootstrap and UiKit which were used to create this tech blog! "
+      "post_body": "A front end framework is a package that contains pre-written code in files and folders. It is like the scaffold for building the front end. It allows the developer to spend less time on creating from the ground up, and more time on the design and unique features of their application. Some examples include Bootstrap and UIkit which were used to create this tech blog! "
     }
   ]

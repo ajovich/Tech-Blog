@@ -1,0 +1,17 @@
+[
+    {
+        "comment_body": "Thank you for explaining MVC folder structure!",
+        "user_id": 1,
+        "post_id": 1
+    },
+    {
+        "comment_body": "I love using UIkit!",
+        "user_id": 2,
+        "post_id": 2
+    },
+    {
+        "comment_body": "I like UIkit, but I wish they had more of an icon selection.",
+        "user_id": 3,
+        "post_id": 2
+    }
+]
